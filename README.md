@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vytautastv
-- 👀 I’m interested in marketing and business
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Web apps and software
+👋 Hi, I’m Vy
+🚀 I have a strong interest in fitness, gaming, and tech
+🌱 Currently, I’m diving deep into Ruby on Rails and JavaScript while building my skills in full-stack development
+💡 I’m eager to collaborate on web apps, software projects, and explore new tech solutions
 
 
 <!---
