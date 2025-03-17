@@ -1,7 +1,7 @@
 👋 Hi, I’m Vy
 🚀 I have a strong interest in fitness, gaming, and tech
-🌱 Currently, I’m diving deep into Ruby on Rails and JavaScript while building my skills in full-stack development
-💡 I’m eager to collaborate on web apps, software projects, and explore new tech solutions
+🌱 Currently, I’m diving deep into DevOps, Python and JavaScript
+💡 I’m eager to collaborate on web apps, software projects, and explore new cloud tech
 
 
 <!---
